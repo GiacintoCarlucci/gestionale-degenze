@@ -22,6 +22,10 @@ Tale software è stato implementato da :
 
 - **Giacinto Carlucci** (Matricola: 649618)
 
+Link al repository github:
+
+https://github.com/GiacintoCarlucci/gestionale-degenze
+
 Il software in questione è stato implementato al fine di organizzare le degenze all'interno di un Ospedale rispetto ai pazienti entranti e gestire le componenti:
 1. Pazienti
 2. Strutture
